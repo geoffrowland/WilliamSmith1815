@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <TileMap version="1.0.0" tilemapservice="http://tms.osgeo.org/1.0.0">
+      <Title>WilliamSmith1815_modified_new.tif</Title>
+      <Abstract></Abstract>
+      <SRS>EPSG:3857</SRS>
+      <BoundingBox minx="-6.95775002012669" miny="48.81291575915598" maxx="2.52945261586301" maxy="56.62625885052594"/>
+      <Origin x="-6.95775002012669" y="48.81291575915598"/>
+      <TileFormat width="256" height="256" mime-type="image/png" extension="png"/>
+      <TileSets profile="mercator">
+        <TileSet href="13" units-per-pixel="19.10925706787109" order="13"/>
+      </TileSets>
+    </TileMap>
+    
